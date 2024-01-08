@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Cours 2ième niveau/2024-01-09.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Cours 2ième niveau/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Cours 2ième niveau/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Cours 2ième niveau/2024-01-09.md"
               }
             }
           },
@@ -193,13 +193,14 @@
   },
   "active": "03650cbacb7f85f8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Cours 2ième niveau/2024-01-09.md",
+    "Notes.md",
     "Confucianisme.md",
     "Cours 2ième niveau/Sans titre.md",
     "Cours 2ième niveau",
     "Médecine/Sans titre.md",
     "Hiérarchie.md",
-    "Notes.md",
     "Sans titre 1.md",
     "Médecine"
   ]
