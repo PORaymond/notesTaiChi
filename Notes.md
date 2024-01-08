@@ -59,7 +59,7 @@ Pour se distinguer des autres :
 
 ### Critique
 
-Il y a une différence entre critique et leçon. Pas besoin de dépasser une personne pour la critiquer.   La critique, qu’elle soit juste ou injuste elle sera bénéfique. Si elle est juste, elle permet à celui qui la reçoit de s’améliorer. Si elle est injuste, elle a un impact sur l’égo de la personne qui l’accepte, son égo serait diminué. Commencer par appliquer ce principe dans le cadre de la pratique.
+Il y a une différence entre critique et leçon. Pas besoin de dépasser une personne pour la critiquer.   La critique, qu’elle soit juste ou injuste, sera bénéfique. Si elle est juste, elle permet à celui qui la reçoit de s’améliorer. Si elle est injuste, elle a un impact sur l’égo de la personne qui l’accepte, son égo serait diminué. Commencer par appliquer ce principe dans le cadre de la pratique.
 
 ### Dualité
 
