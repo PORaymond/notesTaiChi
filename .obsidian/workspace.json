@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "675685999da236c0",
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a0e85dfc0ca79f2",
+  "active": "dcfed5c43f359424",
   "lastOpenFiles": [
     "Cours 2ième niveau/Sans titre.md",
     "Cours 2ième niveau/2024-01-09.md",
