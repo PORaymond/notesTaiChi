@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "d0d47dc61b8e3e9d",
+    "id": "092b08522d436a38",
     "type": "split",
     "children": [
       {
-        "id": "5959a79ba159fc66",
+        "id": "3b7ffeebddd75d40",
         "type": "tabs",
         "children": [
           {
-            "id": "fd633f82c77a1bc3",
+            "id": "dcfed5c43f359424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ce4436e11faff2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3231bc3ff8c5c554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hiérarchie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03650cbacb7f85f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours 2ième niveau/2024-01-09.md",
+                "file": "Cours 2ième niveau/2024-01-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5bd9ca2f40e4fe65",
+    "id": "76ea4fc82041688d",
     "type": "split",
     "children": [
       {
-        "id": "5adcafd93164de91",
+        "id": "826c4ca8a639e266",
         "type": "tabs",
         "children": [
           {
-            "id": "da714bee507068ce",
+            "id": "6a0e85dfc0ca79f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "9a5af39b407a7c18",
+            "id": "fa9145e3c3af7a65",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +58,7 @@
             }
           },
           {
-            "id": "6633d11f84850081",
+            "id": "611cf78eefcece62",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "5de6b02add135826",
+    "id": "675685999da236c0",
     "type": "split",
     "children": [
       {
-        "id": "ad86c9f769144e3f",
+        "id": "bae382f042ce4f49",
         "type": "tabs",
         "children": [
           {
-            "id": "c31e05ebb8349a2e",
+            "id": "4ed7369ba124cd42",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-09.md",
+                "file": "Cours 2ième niveau/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +98,19 @@
             }
           },
           {
-            "id": "eba184a6363e7e6c",
+            "id": "efd3c1c6ebf99c2a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-09.md",
+                "file": "Cours 2ième niveau/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "da5468fdc3c3a4b0",
+            "id": "1eabf89452c24a7a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,17 +121,17 @@
             }
           },
           {
-            "id": "5c21a6c6933cfdd8",
+            "id": "ab166cc0b4f2d28f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-09.md"
+                "file": "Cours 2ième niveau/2024-01-16.md"
               }
             }
           },
           {
-            "id": "31b904f5f9c3ca3b",
+            "id": "df8d3bd3104e74b3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,29 +143,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "03650cbacb7f85f8",
+  "active": "dcfed5c43f359424",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Cours 2ième niveau/2024-01-09.md",
-    "Notes.md",
-    "Confucianisme.md",
+    "Cours 2ième niveau/2024-01-16.md",
     "Cours 2ième niveau/Sans titre.md",
     "Cours 2ième niveau",
-    "Médecine/Sans titre.md",
+    "Théorie KF 8 juin 2011.docx",
+    "Notes.md",
     "Hiérarchie.md",
-    "Sans titre 1.md",
-    "Médecine"
+    "Confucianisme.md",
+    "notesTaiChi/Théorie KF 8 juin 2011 - Copie.docx",
+    "notesTaiChi/Notes - Copie.md",
+    "notesTaiChi/Hiérarchie - Copie.md",
+    "notesTaiChi/Confucianisme - Copie.md",
+    "notesTaiChi/Théorie KF 8 juin 2011.docx",
+    "notesTaiChi/Notes.md",
+    "notesTaiChi/Hiérarchie.md",
+    "notesTaiChi/Confucianisme.md",
+    "notesTaiChi",
+    "Welcome.md",
+    "create a link.md"
   ]
 }
