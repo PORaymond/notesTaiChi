@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-16.md",
+                "file": "Cours 2ième niveau/2024-01-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "675685999da236c0",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-16.md",
+                "file": "Cours 2ième niveau/2024-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-16.md",
+                "file": "Cours 2ième niveau/2024-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-16.md"
+                "file": "Cours 2ième niveau/2024-01-21.md"
               }
             }
           },
@@ -155,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcfed5c43f359424",
+  "active": "6a0e85dfc0ca79f2",
   "lastOpenFiles": [
-    "Cours 2ième niveau/2024-01-09.md",
-    "Cours 2ième niveau/2024-01-16.md",
+    "Cours 2ième niveau/2024-01-14.md",
+    "Cours 2ième niveau/2024-01-07.md",
+    "Cours 2ième niveau/2024-01-21.md",
     "Cours 2ième niveau/Sans titre.md",
     "Cours 2ième niveau",
     "Théorie KF 8 juin 2011.docx",
