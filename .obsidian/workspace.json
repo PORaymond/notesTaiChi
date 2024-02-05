@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3b7ffeebddd75d40",
+        "id": "dfb44209b42c5914",
         "type": "tabs",
         "children": [
           {
-            "id": "dcfed5c43f359424",
+            "id": "83399af73143b221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-21.md",
+                "file": "Cours 2ième niveau/2024-01-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ba55351a2f4e909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-04-12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-21.md",
+                "file": "2024-02-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-21.md",
+                "file": "2024-02-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-21.md"
+                "file": "2024-02-04-12.md"
               }
             }
           },
@@ -155,8 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcfed5c43f359424",
+  "active": "4ba55351a2f4e909",
   "lastOpenFiles": [
+    "2024-02-04-11.md",
+    "2024-02-04-12.md",
+    "2024-02-04-10.md",
+    "2024-02-04-09.md",
+    "2024-02-04-08.md",
+    "2024-02-04-07.md",
+    "2024-02-04-06.md",
+    "2024-02-04-05.md",
+    "2024-02-04-04.md",
+    "2024-02-04-03.md",
+    "page2-2024-02-04.md",
+    "Cours 2ième niveau/2024-02-04.md",
+    "Cours 2ième niveau/2024-01-28.md",
     "Cours 2ième niveau/2024-01-14.md",
     "Cours 2ième niveau/2024-01-21.md",
     "conflict-files-obsidian-git.md",
@@ -174,9 +200,6 @@
     "notesTaiChi/Théorie KF 8 juin 2011.docx",
     "notesTaiChi/Notes.md",
     "notesTaiChi/Hiérarchie.md",
-    "notesTaiChi/Confucianisme.md",
-    "notesTaiChi",
-    "Welcome.md",
-    "create a link.md"
+    "notesTaiChi"
   ]
 }
