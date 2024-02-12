@@ -11,9 +11,35 @@
             "id": "7f3dcc56c6196de3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cours 2ième niveau/images/petite orbite.jpg"
+                "file": "Cours 2ième niveau/2024-02-04-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fb2e84f81049319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours 2ième niveau/2024-02-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8957fde0e0810644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours 2ième niveau/2024-02-04-07.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -29,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours 2ième niveau/images/petite orbite.jpg",
+                "file": "Cours 2ième niveau/2024-02-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours 2ième niveau/images/petite orbite.jpg",
+                "file": "Cours 2ième niveau/2024-02-04-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours 2ième niveau/images/petite orbite.jpg"
+                "file": "Cours 2ième niveau/2024-02-04-07.md"
               }
             }
           },
@@ -164,31 +191,33 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "da714bee507068ce",
+  "active": "8957fde0e0810644",
   "lastOpenFiles": [
+    "Cours 2ième niveau/2024-02-04-06.md",
+    "Cours 2ième niveau/2024-02-04-05.md",
+    "Cours 2ième niveau/2024-02-04-04.md",
+    "Cours 2ième niveau/2024-02-04-03.md",
+    "2024-02-02.md",
+    "Cours 2ième niveau/2024-02-04-02.md",
+    "Cours 2ième niveau/2024-02-04.md",
+    "Cours 2ième niveau/2024-02-04-08.md",
+    "Cours 2ième niveau/2024-02-04-09.md",
+    "Cours 2ième niveau/2024-02-04-10.md",
+    "Cours 2ième niveau/2024-02-04-11.md",
+    "Cours 2ième niveau/2024-02-04-12.md",
+    "2024-02-04-13.md",
+    "Cours 2ième niveau/images/petite orbite.jpg",
     "Cours 2ième niveau/images/DiagrammeCCS.jpg",
     "Cours 2ième niveau/2024-01-14.md",
     "421275966_1423939971852048_5155959900716821492_n.jpg",
     "Cours 2ième niveau/images/420444718_6258482510920967_1742285779812067448_n 1.jpg",
-    "Cours 2ième niveau/images/petite orbite.jpg",
     "Cours 2ième niveau/images",
-    "Cours 2ième niveau/2024-02-04-04.md",
     "Cours 2ième niveau/2024-01-21.md",
     "Cours 2ième niveau/2024-01-07.md",
-    "Cours 2ième niveau/2024-02-04.md",
-    "page2-2024-02-04.md",
     "Cours 2ième niveau/2024-01-28.md",
     "Notes.md",
-    "Cours 2ième niveau/2024-02-04-03.md",
-    "Cours 2ième niveau/2024-02-04-05.md",
     "Chi Kung.md",
-    "Cours 2ième niveau/2024-02-04-12.md",
-    "Cours 2ième niveau/2024-02-04-11.md",
-    "Cours 2ième niveau/2024-02-04-10.md",
-    "Cours 2ième niveau/2024-02-04-09.md",
-    "Cours 2ième niveau/2024-02-04-08.md",
     "Cours 2ième niveau/2024-02-04-07.md",
-    "Cours 2ième niveau/2024-02-04-06.md",
     "Cours 2ième niveau/2024-01-09.md",
     "conflict-files-obsidian-git.md",
     "Confucianisme.md",
@@ -196,7 +225,6 @@
     "Cours 2ième niveau",
     "Médecine/Sans titre.md",
     "Hiérarchie.md",
-    "Sans titre 1.md",
     "Médecine"
   ]
 }
