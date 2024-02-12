@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours 2ième niveau/2024-02-04-04.md",
+                "file": "Cours 2ième niveau/2024-01-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5de6b02add135826",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours 2ième niveau/2024-02-04-04.md",
+                "file": "Cours 2ième niveau/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours 2ième niveau/2024-02-04-04.md",
+                "file": "Cours 2ième niveau/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours 2ième niveau/2024-02-04-04.md"
+                "file": "Cours 2ième niveau/2024-01-14.md"
               }
             }
           },
@@ -167,8 +166,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7f3dcc56c6196de3",
+  "active": "da714bee507068ce",
   "lastOpenFiles": [
+    "Cours 2ième niveau/images/420444718_6258482510920967_1742285779812067448_n.jpg",
+    "Cours 2ième niveau/images/421275966_1423939971852048_5155959900716821492_n.jpg",
+    "Cours 2ième niveau/images",
+    "421275966_1423939971852048_5155959900716821492_n.jpg",
+    "420444718_6258482510920967_1742285779812067448_n.jpg",
+    "Cours 2ième niveau/2024-02-04-04.md",
     "Cours 2ième niveau/2024-01-14.md",
     "Cours 2ième niveau/2024-01-21.md",
     "Cours 2ième niveau/2024-01-07.md",
@@ -176,7 +181,6 @@
     "page2-2024-02-04.md",
     "Cours 2ième niveau/2024-01-28.md",
     "Notes.md",
-    "Cours 2ième niveau/2024-02-04-04.md",
     "Cours 2ième niveau/2024-02-04-03.md",
     "Cours 2ième niveau/2024-02-04-05.md",
     "Chi Kung.md",
