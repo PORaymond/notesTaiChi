@@ -11,11 +11,9 @@
             "id": "7f3dcc56c6196de3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-14.md",
-                "mode": "source",
-                "source": false
+                "file": "Cours 2ième niveau/images/petite orbite.jpg"
               }
             }
           },
@@ -81,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 490.5
   },
   "right": {
     "id": "5de6b02add135826",
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-14.md",
+                "file": "Cours 2ième niveau/images/petite orbite.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-14.md",
+                "file": "Cours 2ième niveau/images/petite orbite.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-14.md"
+                "file": "Cours 2ième niveau/images/petite orbite.jpg"
               }
             }
           },
@@ -168,13 +166,13 @@
   },
   "active": "da714bee507068ce",
   "lastOpenFiles": [
-    "Cours 2ième niveau/images/420444718_6258482510920967_1742285779812067448_n.jpg",
-    "Cours 2ième niveau/images/421275966_1423939971852048_5155959900716821492_n.jpg",
-    "Cours 2ième niveau/images",
-    "421275966_1423939971852048_5155959900716821492_n.jpg",
-    "420444718_6258482510920967_1742285779812067448_n.jpg",
-    "Cours 2ième niveau/2024-02-04-04.md",
+    "Cours 2ième niveau/images/DiagrammeCCS.jpg",
     "Cours 2ième niveau/2024-01-14.md",
+    "421275966_1423939971852048_5155959900716821492_n.jpg",
+    "Cours 2ième niveau/images/420444718_6258482510920967_1742285779812067448_n 1.jpg",
+    "Cours 2ième niveau/images/petite orbite.jpg",
+    "Cours 2ième niveau/images",
+    "Cours 2ième niveau/2024-02-04-04.md",
     "Cours 2ième niveau/2024-01-21.md",
     "Cours 2ième niveau/2024-01-07.md",
     "Cours 2ième niveau/2024-02-04.md",
