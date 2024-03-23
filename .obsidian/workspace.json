@@ -1,160 +1,52 @@
 {
   "main": {
-    "id": "d0d47dc61b8e3e9d",
+    "id": "092b08522d436a38",
     "type": "split",
     "children": [
       {
-        "id": "5959a79ba159fc66",
+        "id": "dfb44209b42c5914",
         "type": "tabs",
         "children": [
           {
-            "id": "7f3dcc56c6196de3",
+            "id": "ebe04cac20f0a95c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours 2ième niveau/2024-02-04-12.md",
+                "file": "Cours 2ième niveau/2024-02-18-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1fb2e84f81049319",
+            "id": "f88b092085806573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours 2ième niveau/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8957fde0e0810644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours 2ième niveau/2024-02-18-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f18c976b3ee057c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours 2ième niveau/2024-02-18-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86c6258e168d8daf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours 2ième niveau/2024-02-18-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccfb30deeaaa4d4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours 2ième niveau/2024-01-07-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e26abffe5dfdac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours 2ième niveau/2024-01-07-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d33b4453f564b718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours 2ième niveau/2024-01-07-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aff9f47b5d23e327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours 2ième niveau/2024-01-14-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4672339e74723ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours 2ième niveau/2024-01-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3231bc3ff8c5c554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hiérarchie.md",
+                "file": "rencontre avec Cyril 2024-03-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5bd9ca2f40e4fe65",
+    "id": "76ea4fc82041688d",
     "type": "split",
     "children": [
       {
-        "id": "5adcafd93164de91",
+        "id": "826c4ca8a639e266",
         "type": "tabs",
         "children": [
           {
-            "id": "da714bee507068ce",
+            "id": "6a0e85dfc0ca79f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -164,12 +56,12 @@
             }
           },
           {
-            "id": "9a5af39b407a7c18",
+            "id": "fa9145e3c3af7a65",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "réparer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +71,7 @@
             }
           },
           {
-            "id": "6633d11f84850081",
+            "id": "611cf78eefcece62",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -190,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 300
   },
   "right": {
-    "id": "5de6b02add135826",
+    "id": "675685999da236c0",
     "type": "split",
     "children": [
       {
-        "id": "ad86c9f769144e3f",
+        "id": "bae382f042ce4f49",
         "type": "tabs",
         "children": [
           {
-            "id": "c31e05ebb8349a2e",
+            "id": "4ed7369ba124cd42",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-21.md",
+                "file": "rencontre avec Cyril 2024-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,19 +110,19 @@
             }
           },
           {
-            "id": "eba184a6363e7e6c",
+            "id": "efd3c1c6ebf99c2a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-21.md",
+                "file": "rencontre avec Cyril 2024-03-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "da5468fdc3c3a4b0",
+            "id": "1eabf89452c24a7a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -241,17 +133,17 @@
             }
           },
           {
-            "id": "5c21a6c6933cfdd8",
+            "id": "ab166cc0b4f2d28f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours 2ième niveau/2024-01-21.md"
+                "file": "rencontre avec Cyril 2024-03-23.md"
               }
             }
           },
           {
-            "id": "31b904f5f9c3ca3b",
+            "id": "df8d3bd3104e74b3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -263,38 +155,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f4672339e74723ab",
+  "active": "f88b092085806573",
   "lastOpenFiles": [
-    "Cours 2ième niveau/2024-01-14-01.md",
-    "Cours 2ième niveau/2024-01-07-09.md",
-    "Cours 2ième niveau/2024-01-07-08.md",
-    "Cours 2ième niveau/2024-01-07-02 1.md",
-    "Cours 2ième niveau/2024-02-04.md",
-    "Cours 2ième niveau/images/DiagrammeCCS.psd",
-    "Cours 2ième niveau/2024-01-07-07.md",
-    "2024-02-02.md",
-    "2024-02-04-13.md",
-    "2024-01-14-01.md",
-    "2024-01-07-07.md",
-    "Cours 2ième niveau/2024-01-07-06.md",
-    "Cours 2ième niveau/2024-01-07-05.md",
-    "Cours 2ième niveau/2024-01-07-04.md",
-    "Cours 2ième niveau/2024-01-07-03.md",
-    "Cours 2ième niveau/2024-01-07-02.md",
-    "Cours 2ième niveau/2024-01-07-01.md",
     "Cours 2ième niveau/2024-02-18-14.md",
+    "rencontre avec Cyril 2024-03-23.md",
     "Cours 2ième niveau/2024-02-18-13.md",
     "Cours 2ième niveau/2024-02-18-12.md",
     "Cours 2ième niveau/2024-02-18-11.md",
@@ -304,12 +180,28 @@
     "Cours 2ième niveau/2024-02-18-07.md",
     "Cours 2ième niveau/2024-02-18-06.md",
     "Cours 2ième niveau/2024-02-18-05.md",
+    "Cours 2ième niveau/2024-02-18-04.md",
+    "Cours 2ième niveau/2024-02-18-03.md",
+    "Cours 2ième niveau/2024-02-18-02.md",
+    "Cours 2ième niveau/2024-02-18-01.md",
+    "Cours 2ième niveau/2024-01-07-09.md",
+    "Cours 2ième niveau/2024-01-14-01.md",
+    "Cours 2ième niveau/2024-01-07-08.md",
+    "Cours 2ième niveau/2024-01-07-06.md",
+    "Cours 2ième niveau/2024-01-07-05.md",
+    "Cours 2ième niveau/2024-01-07-04.md",
+    "Cours 2ième niveau/2024-01-07-02.md",
+    "Cours 2ième niveau/2024-01-07-01.md",
+    "Cours 2ième niveau/2024-01-07-03.md",
+    "Cours 2ième niveau/2024-01-07-07.md",
+    "Cours 2ième niveau/2024-01-28.md",
     "Cours 2ième niveau/images/petite orbite.jpg",
     "Cours 2ième niveau/images/DiagrammeCCS.jpg",
-    "421275966_1423939971852048_5155959900716821492_n.jpg",
-    "Cours 2ième niveau/images/420444718_6258482510920967_1742285779812067448_n 1.jpg",
     "Cours 2ième niveau/images",
     "Cours 2ième niveau",
-    "Médecine"
+    "Théorie KF 8 juin 2011.docx",
+    "notesTaiChi/Théorie KF 8 juin 2011 - Copie.docx",
+    "notesTaiChi/Théorie KF 8 juin 2011.docx",
+    "notesTaiChi"
   ]
 }
