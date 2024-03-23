@@ -103,7 +103,13 @@ Faire en sorte que la personne se valorise elle-même. Le pratiquant ne doit pas
 
 Énergie positive paraitre qu’on a du fun. Avoir le sourire. Même quand on se sent pas bien. 
 
+Question : Quelle à la perception de l’école à l’extérieure.
 
+Ce n’est pas la bonne question. On va projeter des choses et on va imaginer les autres. Soyons nous-même et authentique.
+
+Nous. C’est qui nous. 
+
+bien se présenté au lieu de chercher quoi présenté.
 
 
 
