@@ -97,6 +97,8 @@ Idée d’incorporer de petit changement chez les gens.
 
 photo avant après. 
 
+TEst d’aptitude physique revisité après 3 mois.
+
 
 
 
