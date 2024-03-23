@@ -61,6 +61,45 @@ Recherche de clarté
 La question c’est comment avoir une base (une masse critique de gens)
 
 
+Nous parlons de l’égo sans l’avoir maitrisé
+
+Qu’est-ce qu’on veut?
+
+Remplir les écoles pour soutenir les dépenses -> survivre financièrement.
+
+Se concentré sur l’effort et moins sur la finalité.
+
+Mettre plus de variété dans le cours 
+
+Associé quelque chose de plus réel à 
+
+Accueil plus personnalisé. Le groupe intime est plus intimidant. 
+
+Mettre l’emphase sur le cheminement moins sur la finalité.
+
+Encouragement, 
+
+Finalement, ne pas parler de la spiritualité, juste la pratiquer.
+
+
+Shaolin temple Europe en Allemagne (bonne communication) Actualise l’oriental avec le mode de vie occidentaux.
+
+Quelles sont nos valeurs qu’est-ce que nous représentons. 
+Intégrité. Alliance entre le corps et le non physique. pont qui manque Intégrité personnelle. Les principes sont assimilés et intégré à la personne.
+
+Bruce Lee est un leader et en même temps il est un modèle. Le cheminement l’option est-elle de spécialiser une personne.
+
+Presence/absence du Grand Maitre dilue 
+
+Il y a un gradient entre la société et le monde des arts martiaux.
+
+Idée d’incorporer de petit changement chez les gens. 
+
+photo avant après. 
+
+
+
+
 
 
 
