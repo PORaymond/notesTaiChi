@@ -22,4 +22,7 @@ Cyril s’intéresse au CV des instructeurs des places où il va maintenant
 Leadership : Ex Bruce Lee s’est accaparé les choses. Il a pris le leadership. 
 
 Les Instructeurs sont comme Bruce Lee. Faire le lien entre l’est et l’ouest.
+Spiritualité vs "directness".
+
+
 
