@@ -89,7 +89,7 @@ Intégrité. Alliance entre le corps et le non physique. pont qui manque Intégr
 
 Bruce Lee est un leader et en même temps il est un modèle. Le cheminement l’option est-elle de spécialiser une personne.
 
-Presence/absence du Grand Maitre dilue 
+Présence/absence du Grand Maitre dilue 
 
 Il y a un gradient entre la société et le monde des arts martiaux.
 
@@ -97,7 +97,12 @@ Idée d’incorporer de petit changement chez les gens.
 
 photo avant après. 
 
-TEst d’aptitude physique revisité après 3 mois.
+Test d’aptitude physique revisité après 3 mois.
+
+Faire en sorte que la personne se valorise elle-même. Le pratiquant ne doit pas être dépendant de l’instructeur pour valoriser ses propres efforts.
+
+Énergie positive paraitre qu’on a du fun. Avoir le sourire. Même quand on se sent pas bien. 
+
 
 
 
