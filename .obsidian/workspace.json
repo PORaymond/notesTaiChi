@@ -82,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,6 +132,7 @@
       }
     ],
     "direction": "horizontal",
+    "width": 406.5
     "width": 490.5
   },
   "right": {
