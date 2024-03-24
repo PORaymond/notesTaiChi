@@ -133,6 +133,7 @@
     ],
     "direction": "horizontal",
     "width": 406.5
+    "width": 406.5
     "width": 490.5
   },
   "right": {
@@ -218,6 +219,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
+  "active": "db4d472c495e0d1a",
   "active": "db4d472c495e0d1a",
   "active": "1beec8bf6e2a985f",
   "lastOpenFiles": [
