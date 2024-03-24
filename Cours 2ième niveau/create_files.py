@@ -7,7 +7,7 @@ def create_markdown_file(today_date, page_number):
     next_page_link = f"[page suivante]({today_date}-{page_number+1:02}.md)" if page_number < 17 else ""
 
     # Create the markdown file with the specified format
-    file_name = f"markdown_files/{today_date}-{page_number:02}.md"
+    file_name = f"{today_date}/{today_date}-{page_number:02}.md"
     with open(file_name, "w", encoding="utf-8") as file:
         file.write(f"{previous_page_link} | {next_page_link}")
 
@@ -18,7 +18,7 @@ def create_all_markdown_files():
     today_date = datetime.now().strftime("%Y-%m-%d")
 
     # Check if the 'markdown_files' directory exists, create it if not
-    directory = "markdown_files"
+    directory = today_date
     if not os.path.exists(directory):
         os.makedirs(directory)
 
