@@ -1,11 +1,10 @@
 Donner en binôme
 
-Nam Hy
-Nicolas
-Nam Trung
+Nam Trung à confirmé
 Jean-Yves
 
-
+Nam Hy confirmé
+Nicolas confirmé
 
  ## Olivier 
 Segment de brocart
